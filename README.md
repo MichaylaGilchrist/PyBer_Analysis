@@ -1,10 +1,11 @@
-# PyBer_Analysis
+# PyBer Analysis
 ### Overview:
 PyBer is a ride-sharing company that is looking for a breakdown of rides, drivers, and fares by city type (Rural, Suburban, and Urban). Below you will see an analysis of this data and a chart outlining the Total Fares by City Type from January 2019 through April 2019.  
 
 ## Results
 ### Data Summary
 For the Rural city type, in comparision to the Surburban and Urban city types, the Average Fare per Ride and Average Fare per Driver is the highest. The Average Fare per Ride for Rural cities can be contributed the Total Fares being split across only 125 Rides, both data points being on the lowest end of the city type spectrum. This also explains the Average Fare per Driver being the highest given that the Total Fares is divided by only 78 Drivers. It is safe to assume that the Average Fare per Ride is higher can be attributed to farther distances traveled amongst Total Rides given the higher dollar amount. 
+
 In opposition to Rural, Urban city types have the lowest Average Fare per Ride and Average Fare per Driver. Based upon the number of Drivers being almost double the Total number of Rides we can see that the Average Fare per Drive is significantly lower than the other city types. From this data we can assume that a higher Total of Rides are taken in an Urban setting will be a shorter distance, giving the Average Fare per Ride a lower value. Overall the Total Fares produced by Urban rides beats out both Rural and Suburban Rides.     
 
 ### Total Fares by City Type
