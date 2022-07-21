@@ -1,5 +1,5 @@
 # PyBer_Analysis
-###Overview:
+### Overview:
 PyBer is a ride-sharing company that is looking for a breakdown of rides, drivers, and fares by city type (Rural, Suburban, and Urban). Below you will see an analysis of this data and a chart outlining the Total Fares by City Type from January 2019 through April 2019.  
 
 ## Results
