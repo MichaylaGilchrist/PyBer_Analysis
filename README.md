@@ -15,6 +15,6 @@ This graph, while showing the overall differences between the city types as desc
 
 ## Summary
 Based upon the above results, business recommendations are as follows:
-1) Spend additional marketing and recruitment for the Rural and Suburban Drivers. Although this could bring down the Average Fare per Driver this may help to increase the Total Rides which may help to incrase Total Fares.
+1) Spend additional marketing and recruitment for the Rural and Suburban Drivers. Although this could bring down the Average Fare per Driver this may help to increase the Total Rides which may help to increase Total Fares.
 2) Give incentives for Urban Drivers to go to Rural and Suburban cities. 
 3) Further analyze dates around universal and reoccuring Total Fare spikes to capitalize on costs and increase the number of Drivers if necessary. 
